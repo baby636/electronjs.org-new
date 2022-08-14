@@ -43,7 +43,7 @@
     ]
   },
   "devDependencies": {
-    "@actions/core": "^1.2.7",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^4.0.0",
     "@types/jest": "^26.0.23",
     "@types/unist": "^2.0.3",
